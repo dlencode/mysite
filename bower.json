@@ -1,0 +1,17 @@
+{
+  "name": "dlencode-template",
+  "description": "Dlencode template for fast init new projects",
+  "main": "index.js",
+  "authors": [
+    "Danila Ermolenko"
+  ],
+  "license": "ISC",
+  "homepage": "dlencode.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
